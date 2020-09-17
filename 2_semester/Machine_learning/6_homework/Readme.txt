@@ -1,1 +1,1 @@
-
+Python. scikit-learn. Model validation, Cross-validation, Gridsearch. Classifiers: LDA, QDA, Logistic regression, Support Vector Machines, Multi-layer Perceptron, Decision trees, AdaBoost. Images (MNIST).
