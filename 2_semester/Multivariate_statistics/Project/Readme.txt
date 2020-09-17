@@ -1,1 +1,1 @@
-
+Python. Multivariate normality (Looney & Gulledge test), chi-squared plot. yeo-johnson transformation. PCA, kernel-PCA, Multidimensional Scaling, Factor analysis. Linear regression, cosine similarity.
