@@ -1,1 +1,1 @@
-
+Python. scikit-learn, plotly. Data analysis. kernel-PCA. Perceptron, LDA, QDA, Logistic regression, Linear regression. ROC Curves, AUC. Clustering: spectral clustering, kernel k-means. Sound (Free Music Archive).
