@@ -1,1 +1,1 @@
-
+Python. scikit-learn, NLTK. kernel-PCA. Classifiers, FDA, LDA, QDA. PCA, kernel-PCA. Images (MNIST), Text (https://www.sfu.ca/~mtaboada/SFU_Review_Corpus.html). Pattern recognition, Clustering (MMG-EM, fuzzy k-means, k-means, kernel k-means), Information retrieval, NearestNeighbors.
