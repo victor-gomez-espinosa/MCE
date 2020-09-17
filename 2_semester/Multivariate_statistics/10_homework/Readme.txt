@@ -1,1 +1,1 @@
-
+Python. Correspondence Analysis
