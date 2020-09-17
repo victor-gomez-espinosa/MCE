@@ -1,1 +1,1 @@
-determinante y eliminacion de Gauss
+r. determinante y eliminacion de Gauss
