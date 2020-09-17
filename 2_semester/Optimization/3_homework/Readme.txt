@@ -1,1 +1,1 @@
-Programación lineal, Método simplex
+Python. Programación lineal, Método simplex
