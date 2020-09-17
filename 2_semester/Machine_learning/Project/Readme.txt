@@ -1,1 +1,1 @@
-Linear Regression, Binary Classification, XGBoost, Data from https://archive.ics.uci.edu/
+Python. scikit-learn. Linear Regression, Binary Classification, XGBoost, Data from https://archive.ics.uci.edu/
