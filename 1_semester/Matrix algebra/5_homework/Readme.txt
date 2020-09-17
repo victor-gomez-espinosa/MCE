@@ -1,1 +1,1 @@
-descomposicion LU, descomposicion PA=LU
+r. descomposicion LU, descomposicion PA=LU
