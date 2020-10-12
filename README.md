@@ -1,2 +1,2 @@
 # MCE
-personal repository for masters' projects on data science
+personal repository for master's degree projects on data science
