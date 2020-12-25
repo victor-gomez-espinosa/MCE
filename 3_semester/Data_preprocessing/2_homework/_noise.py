@@ -236,44 +236,4 @@ class NoiseHandling(BaseEstimator):
     def fit_resample(self, X, y): 
         return self.fit(X, y).__resample(X, y)
 
-#%%
-#○from sklearn.preprocessing import StandardScaler
-#import pandas as pd
 
-#DataFrameTrain = pd.read_table('pima-20cn01-nc-5-1tra'+'.dat', sep=',', header=None, na_values=[' ','  ','?',None])
-#X, y = DataFrameTrain.iloc[:,:-1].values, DataFrameTrain.iloc[:,-1].values
-
-
-#%%
-#scaler = StandardScaler() #Standardize
-#scaler.fit(X)
-#X=scaler.transform(X)
-#nh=NoiseHandling(method = 'HybridRepairingFilter', filter_type = 'consensus',n_neighbors = 5)
-#X,y=nh.fit_resample(X,y)
-
-
-
-
-#%%
-
-
-#from sklearn.datasets import load_iris
-#from imblearn.pipeline  import Pipeline
-#from sklearn.preprocessing import StandardScaler
-#from sklearn.metrics import confusion_matrix
-
-#dataset = load_iris()
-#X, y = dataset['data'], dataset['target']
-
-
-#%%
-#model = Pipeline([('standardize', StandardScaler()),
-#                  ('noise_handler', 
-#                   NoiseHandling(method = 'HybridRepairingFilter', filter_type = 'consensus',
-#                                 n_neighbors = 5)),
-#                  ('classifier', KNeighborsClassifier())])
-
-
-#model.fit(X, y)
-#y_pred = model.predict(X)
-#print(confusion_matrix(y, y_pred))
